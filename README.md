@@ -7,9 +7,11 @@ Now you can get 1, 2 or 3 bits of info for Formula 1 racing circuit!!
     But how do I install this?
     
     ~MagicMirror/Modules
-    git clone https://github.com/cowboysdude/MMM-Fracing.git
+    git clone https://github.com/cowboysdude/MMM-Fracing
     
-    Try running it WITHOUT running npm install .. if it doesn't load run NPM INSTALL in the ~MagicMirror/modules/MMM-Fracing dir
+    Try running it WITHOUT running npm install .. if it doesn't load run NPM INSTALL in the 
+    
+    ~MagicMirror/modules/MMM-Fracing dir
 
 
 # CONFIG.JS
