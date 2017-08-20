@@ -1,0 +1,22 @@
+{
+  "name": "mmm-fracing",
+  "version": "1.0.1",
+  "description": "This day in History module for MM2",
+  "main": "MMM-Fracing.js",
+  "dependencies": {
+    "request": "^2.81.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cowboysdude/MMM-Fracing.git"
+  },
+  "author": "Cowboysdude",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cowboysdude/MMM-Fracing/issues"
+  },
+  "homepage": "https://github.com/cowboysdude/MMM-Fracing#readme"
+}
