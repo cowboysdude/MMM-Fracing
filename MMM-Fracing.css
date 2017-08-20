@@ -1,0 +1,41 @@
+.MMM-Fracing .wrapper {
+    text-align: justify
+}
+.MMM-Fracing .box {
+    width: 220px;
+    border: 1px solid green;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+}
+.MMM-Fracing .img {
+    max-width: 20%;
+    max-height: 20%;
+}
+.MMM-Fracing .border {
+    width: 220px;
+    text-align: center;
+    border: solid 3px black;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: 600;
+    color: black;
+    letter-spacing: 2px;
+    padding: 5px 3px;
+    margin: 5px 5px;
+    background: #FDF2E9;
+    position: relative;
+}
+.MMM-Fracing .border:after {
+    content: "";
+    position: absolute;
+    display: block;
+    background: inherit;
+    border-radius: inherit;
+    border: inherit;
+    left: 2px;
+    top: 2px;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
