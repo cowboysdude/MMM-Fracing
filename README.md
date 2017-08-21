@@ -2,7 +2,7 @@
 
 * **Formula 1** racing module for MagicMirror2.
 
-** Now you can get 1, 2 or 3 bits of info for the Formula 1 racing circuit!!
+* Now you can get 1, 2 or 3 bits of info for the Formula 1 racing circuit!!
 
 ## Examples
 
@@ -18,7 +18,7 @@
 
 * Try running it WITHOUT running npm install.
 
-* If it doesn't load run `**npm install**` in the `~MagicMirror/modules/MMM-Fracing` directory.
+* If it doesn't load run `npm install` in the `~MagicMirror/modules/MMM-Fracing` directory.
 
 ## Config.js entry and options
 
