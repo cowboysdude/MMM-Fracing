@@ -186,7 +186,7 @@ Module.register("MMM-Fracing", {
 
                 var bonusPTS = document.createElement("div");
                 bonusPTS.classList.add("xsmall", "bright");
-                bonusPTS.innerHTML = "Car Type " + racing.Constructors[0].name;
+                bonusPTS.innerHTML = "Car Type " + racing.Constructors.name;
                 wrapper.appendChild(bonusPTS);
             }
         }
